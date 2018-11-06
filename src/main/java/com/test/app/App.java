@@ -1,4 +1,4 @@
-package io.packagecloud;
+package com.test.app;
 
 /**
  * Hello world!
